@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://dchhouen@github.com/dchhouen/our-vacation-home.github.io.git
+	branch = main
