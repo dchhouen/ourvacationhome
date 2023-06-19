@@ -1,5 +1,5 @@
-baseURL = "https://our-vacation-home.github.io/"
-themesDir = "themes"
+baseURL = "/"
+#themesDir = "themes"
 theme = ["hugo-serif-theme","hugo-embed-pdf-shortcode"]
 languageCode = "en-us"
 title = "Bohemian Oasis in San Diego"
